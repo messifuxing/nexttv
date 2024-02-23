@@ -1,8 +1,8 @@
 {
-    "name": "泥视频",
-    "description": "海外華人在綫影院",
-    "host": "https://www.nivod4.tv",
-    "files": ["util.js","crypto-js.min.js","nivod-sign.min.js","nivod.js"],
+    "name": "JRKAN直播",
+    "description": "球賽轉播",
+    "host": "https://www.jrkankan.com/?lan=1",
+    "files": ["util.js","crypto-js.min.js","JRKAN.min.js","JRKAN.js"],
     "pages": [
       {
         "key": "index",
