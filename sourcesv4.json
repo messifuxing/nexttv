@@ -1,11 +1,11 @@
 [
     {
-        "id": "4cd6c579-1d6f-42d9-a9be-c26d3cbfd835",
+        "id": "",
         "Top": true,
-        "note": "海外華人在綫影院",
+        "note": "",
         "GEO": "Non-China",
         "Search": true,
-        "name": "泥视频",
+        "name": "JRKAN直播",
         "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/nivod.json"
     }
 ]
