@@ -6,6 +6,6 @@
         "GEO": "Non-China",
         "Search": true,
         "name": "JRKAN直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/nivod.json"
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/messifuxing/nexttv/main/test/JRKAN.json"
     }
 ]
